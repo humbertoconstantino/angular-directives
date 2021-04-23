@@ -1,0 +1,37 @@
+mat-radio-group{
+    display: inline-flex;
+    flex-direction: column;
+}
+
+mat-radio-button {
+    padding-bottom: 1rem;
+}
+
+mat-card{
+    margin: 5rem;
+}
+
+.classe0{
+    font-size: 1rem;
+    color: limegreen;
+    background-color: blueviolet;
+    padding: 1rem;
+}
+.classe1{
+    font-size: 2rem;
+    color: lime;
+    background-color: violet;
+    padding: 2rem;
+}
+.classe2{
+    font-size: 3rem;
+    color: #d3d3d3;
+    background-color: black;
+    padding: 3rem;
+}
+.classe3{
+    font-size: 4rem;
+    color: #1f1f1f;
+    background-color: white;
+    padding: 4rem;
+}
